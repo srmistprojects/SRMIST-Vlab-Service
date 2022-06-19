@@ -1,0 +1,32 @@
+{
+  "name": "srmist-vlab-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:prod": "set NODE_ENV=production&& node app.js",
+    "start:dev": "set NODE_ENV=development&& nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srmistprojects/SRMIST-Vlab-Service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srmistprojects/SRMIST-Vlab-Service/issues"
+  },
+  "homepage": "https://github.com/srmistprojects/SRMIST-Vlab-Service#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
