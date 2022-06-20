@@ -27,6 +27,12 @@ const ExperimentSchema = new Schema({
         type: String,
         required: true,
     },
+    videos: {
+        type: String,
+    },
+    references: {
+        type: String,
+    },
     subject: {
         type: Schema.Types.ObjectId,
         ref: 'Subject',

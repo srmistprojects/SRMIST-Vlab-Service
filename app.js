@@ -10,7 +10,7 @@ const logger = require('morgan');
 const path = require('path');
 const appRouter = require('./routes');
 const errorHandler = require('./middlewares/error.middleware');
-const { ApiError } = require('./utils/custom.utils');
+const { ApiError, initializeApp } = require('./utils/custom.utils');
 const { DB_URL, PORT, isProduction } = require('./config');
 
 // Initializing Express Application
@@ -49,6 +49,7 @@ mongoose.connect(DB_URL, {
     app.listen(PORT, () => {
         console.log('Successfully connected to Database!')
         console.log(`Server running at Port: ${PORT}`);
+        initializeApp();
     });
 
 }).catch((_) => {

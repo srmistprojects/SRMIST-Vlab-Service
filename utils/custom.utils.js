@@ -2,6 +2,10 @@
  * Custom Utilities
  */
 
+// Dependencies
+const wakeDyno = require('woke-dyno');
+const { SERVER_URL } = require('../config');
+
 // Api Error Utility
 class ApiError extends Error {
     constructor({ message = '', statusCode = 500, data = {} }) {
@@ -12,6 +16,11 @@ class ApiError extends Error {
     }
 };
 
+const initializeApp = async () => {
+    wakeDyno({ url: SERVER_URL }).start();
+}
+
 module.exports = {
     ApiError,
+    initializeApp
 }
