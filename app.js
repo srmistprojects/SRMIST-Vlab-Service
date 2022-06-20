@@ -11,13 +11,16 @@ const path = require('path');
 const appRouter = require('./routes');
 const errorHandler = require('./middlewares/error.middleware');
 const { ApiError, initializeApp } = require('./utils/custom.utils');
-const { DB_URL, PORT, isProduction } = require('./config');
+const { DB_URL, PORT, isProduction, CLIENT_URL } = require('./config');
 
 // Initializing Express Application
 const app = express();
 
 // Setting up middleware
-app.use(cors());
+app.use(cors({
+    optionsSuccessStatus: 200,
+    origin: CLIENT_URL,
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
