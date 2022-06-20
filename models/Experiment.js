@@ -47,12 +47,12 @@ const ExperimentSchema = new Schema({
 
     },
     videos: [{
-        text: {
+        link: {
             type: String,
         }
     }],
     references: [{
-        text: {
+        link: {
             type: String,
         }
     }],
