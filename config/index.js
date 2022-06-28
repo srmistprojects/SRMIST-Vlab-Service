@@ -6,11 +6,11 @@
 const dotenv = require('dotenv');
 const isProduction = process.env.NODE_ENV === 'production';
 
-if (!isProduction) {
+if (process.env.PROD_ENV !== 'heroku') {
     console.log(dotenv.config({
         path: `.env.${process.env.NODE_ENV}`,
     }));
-}
+};
 
 
 // Configuration Container
