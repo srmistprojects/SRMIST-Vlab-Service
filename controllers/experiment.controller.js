@@ -26,7 +26,7 @@ ExperimentController.fetchExperimentsWithSubjectId = async (req, res, next) => {
         const experiments = await Experiment
             .find({ subject: subjectId })
             .populate('subject', 'name')
-            .select('name _id aim.text')
+            .select('name _id aim.text slug')
             .lean();
         return res.status(200).json({
             message: 'Experiments fetched successfully',
