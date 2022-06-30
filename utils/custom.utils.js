@@ -17,7 +17,7 @@ class ApiError extends Error {
 };
 
 const initializeApp = async () => {
-    wakeDyno({ url: SERVER_URL }).start();
+    // wakeDyno({ url: SERVER_URL }).start();
 }
 
 module.exports = {
