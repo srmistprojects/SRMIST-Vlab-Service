@@ -1,0 +1,1099 @@
+[{
+  "_id": {
+    "$oid": "62b07326bc83480fb66e937d"
+  },
+  "name": "Experiment 1",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e937e"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e937f"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9380"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9381"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9382"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9383"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9384"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9385"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9386"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9387"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9388"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9389"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e938a"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e938b"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e938c"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62b03809f3e9ee7abd5bb72a"
+  },
+  "experimentId": "Yqv3Putd5",
+  "slug": "experiment-1"
+},{
+  "_id": {
+    "$oid": "62b07326bc83480fb66e938d"
+  },
+  "name": "Experiment 1",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e938e"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e938f"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9390"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9391"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9392"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9393"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9394"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9395"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9396"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9397"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9398"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9399"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e939a"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e939b"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e939c"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62b03809f3e9ee7abd5bb72b"
+  },
+  "experimentId": "0FqlHcbLbm",
+  "slug": "experiment-1"
+},{
+  "_id": {
+    "$oid": "62b0732abc83480fb66e93a3"
+  },
+  "name": "Experiment 2",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93a4"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93a5"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93a6"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93a7"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93a8"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93a9"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93aa"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ab"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ac"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ad"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ae"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93af"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b0"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b1"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b2"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62b03809f3e9ee7abd5bb72a"
+  },
+  "experimentId": "MPpl1PwbFD",
+  "slug": "experiment-2"
+},{
+  "_id": {
+    "$oid": "62b0732abc83480fb66e93b4"
+  },
+  "name": "Experiment 2",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b5"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b6"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b7"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b8"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93b9"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ba"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93bb"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93bc"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93bd"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93be"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93bf"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c0"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c1"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c2"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c3"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62b03809f3e9ee7abd5bb72b"
+  },
+  "experimentId": "VLUdPeZW72",
+  "slug": "experiment-2"
+},{
+  "_id": {
+    "$oid": "62b0732abc83480fb66e93c5"
+  },
+  "name": "Experiment 3",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c6"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c7"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c8"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93c9"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ca"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93cb"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93cc"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93cd"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ce"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93cf"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d0"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d1"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d2"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d3"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d4"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62b03809f3e9ee7abd5bb72a"
+  },
+  "experimentId": "-dhe6cbrKQ",
+  "slug": "experiment-3"
+},{
+  "_id": {
+    "$oid": "62b07326bc83480fb66e936d"
+  },
+  "name": "Experiment 1",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e936e"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e936f"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9370"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9371"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9372"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9373"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9374"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9375"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9376"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9377"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9378"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e9379"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e937a"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e937b"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b07326bc83480fb66e937c"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62afbcf3589e5f0838547fdc"
+  },
+  "experimentId": "5k1vloGCR_",
+  "slug": "experiment-1"
+},{
+  "_id": {
+    "$oid": "62b0732abc83480fb66e93e7"
+  },
+  "name": "Experiment 2",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e8"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e9"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ea"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93eb"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ec"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ed"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ee"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ef"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f0"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f1"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f2"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f3"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f4"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f5"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f6"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62afbcf3589e5f0838547fdc"
+  },
+  "experimentId": "vVHyVqLF7o",
+  "slug": "experiment-2"
+},{
+  "_id": {
+    "$oid": "62b0732abc83480fb66e93f8"
+  },
+  "name": "Experiment 3",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93f9"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93fa"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93fb"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93fc"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93fd"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93fe"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93ff"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9400"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9401"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9402"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9403"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9404"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9405"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9406"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e9407"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62afbcf3589e5f0838547fdc"
+  },
+  "experimentId": "BOn75HZofb",
+  "slug": "experiment-3"
+},{
+  "_id": {
+    "$oid": "62b0732abc83480fb66e93d6"
+  },
+  "name": "Experiment 3",
+  "aim": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://media.istockphoto.com/photos/electronic-technician-holding-tweezers-and-assemblin-a-circuit-board-picture-id166103292?k=20&m=166103292&s=612x612&w=0&h=I8ETrwot2cyDJu5rKV_0TFjDeBAyF-6ZnnjMDo4kRNc=",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d7"
+      }
+    }
+  ],
+  "theory": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d8"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93d9"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93da"
+      }
+    }
+  ],
+  "procedure": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93db"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93dc"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93dd"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93de"
+      }
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://images.pexels.com/photos/39290/mother-board-electronics-computer-board-39290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93df"
+      }
+    }
+  ],
+  "observation": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e0"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "link": "https://youtu.be/7jaa1rlW7Ak",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e1"
+      }
+    },
+    {
+      "link": "https://youtu.be/z3MlkNUuq9w",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e2"
+      }
+    }
+  ],
+  "references": [
+    {
+      "link": "https://www.electronics-tutorials.ws/transistor/tran_1.html",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e3"
+      }
+    },
+    {
+      "link": "https://www.electronics-notes.com/articles/electronic_components/fet-field-effect-transistor/what-is-a-fet-types-overview.php",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e4"
+      }
+    },
+    {
+      "link": "https://www.elprocus.com/current-mirror-circuit-working/",
+      "_id": {
+        "$oid": "62b0732abc83480fb66e93e5"
+      }
+    }
+  ],
+  "subject": {
+    "$oid": "62b03809f3e9ee7abd5bb72b"
+  },
+  "experimentId": "lDQls7CSCE",
+  "slug": "experiment-3"
+}]
