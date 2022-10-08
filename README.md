@@ -39,6 +39,8 @@ npm run start:dev
 
 ## 📥 Contributing
 
+This is project is open for contributions. To learn more about how to contribute, refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
+
 ### 🦸 Project Contributors
 
 Meet our contributors, without whom, this project wouldn't be possible.
