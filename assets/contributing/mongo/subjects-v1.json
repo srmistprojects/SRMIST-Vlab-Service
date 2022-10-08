@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62afbcf3589e5f0838547fdc"
+  },
+  "name": "Communication Systems",
+  "description": "A communications system or communication system is a collection of individual telecommunications networks, transmission systems, relay stations, tributary stations, and terminal equipment usually capable of interconnection and interoperation to form an integrated whole.",
+  "slug": "communication-systems",
+  "subjectId": "DLIhEkY_9sq"
+},{
+  "_id": {
+    "$oid": "62b03809f3e9ee7abd5bb72a"
+  },
+  "name": "VLSI Design",
+  "description": "Very large-scale integration is the process of creating an integrated circuit by combining millions of MOS transistors onto a single chip",
+  "slug": "vlsi-design",
+  "subjectId": "KznDS7PW8oD"
+},{
+  "_id": {
+    "$oid": "62b03809f3e9ee7abd5bb72b"
+  },
+  "name": "Electronic Devices",
+  "description": "Electronic devices are components for controlling the flow of electrical currents for the purpose of information processing and system control. Prominent examples include transistors and diodes.",
+  "slug": "electronic-devices",
+  "subjectId": "PCupVTKqZcI"
+}]
