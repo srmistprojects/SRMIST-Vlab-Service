@@ -1,5 +1,14 @@
 # SRMIST-VLab-Service
 
+<div style="color:yellow; background-color: #80808080; border-radius: 8px; text-align: center; padding: 0.75em; margin: 1em;">
+  <p style="font-weight: 600; font-size: 2rem;">
+    ⚠️ This Repository is migrated and is being maintained at <a href="https://github.com/kunalkeshan/SRMIST-VLab-Service">https://github.com/kunalkeshan/SRMIST-VLab-Service</a>
+  </p> 
+  <p>
+    Any issues with the project, head over to the above link to open up a new issue, or to check the latest updates. Thank You!
+  </p>
+</div>
+
 <p align="center">
     <img src="./public/thumbnail.jpg" alt="SRMIST Service Application thumbnail" width="60%" />
 </p>
